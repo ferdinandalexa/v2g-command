@@ -27,7 +27,7 @@ All .gif created are saved in the source path of the converted file.
 - [ ] Automate install process.
 
 ## Related projects
-* [V2G app](https://github.com/ferdinandalexa/v2g-app): Client-side transcode video files to gif format. [Demo](v2g-app.vercel.app)
+* [V2G app](https://github.com/ferdinandalexa/v2g-app): Client-side transcode video files to gif format. [Demo](https://v2g-app.vercel.app)
 
 ## LICENCE
 [MIT - License](LICENSE)
